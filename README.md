@@ -14,4 +14,4 @@
      <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"  />
      <img alt="css3" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  />
 </div>
-Apaixonado por tecnologia e programação.
+Oi! Eu me chamo Pedro Henrique, sou um desenvolvedor front-end com paixão por criar interfaces de usuário intuitivas e funcionais. Tenho experiência em HTML, CSS, JavaScript, e frameworks como React. Estou sempre em busca de aprender novas tecnologias e melhorar minhas habilidades para entregar soluções que façam a diferença.
